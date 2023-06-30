@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+안녕하세요! 박규태입니다!
+
 <!--
 **adambakgt/adambakgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
